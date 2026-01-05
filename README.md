@@ -67,4 +67,4 @@ $config->set('app.timezone', 'UTC');
 
 ## License
 
-MIT
+GPL-3.0
